@@ -7,7 +7,8 @@
 <p align="center">Descripción general</p>
 <p align="justify"> Este portafolio digital desarrollado en Angular contiene una colección de 15 componentes que ejemplifican distintas funcionalidades y elementos de interfaz de usuario. Su objetivo es presentar mis habilidades técnicas mediante componentes funcionales, modernos y visualmente sobrios. Se utilizan colores neutros (blanco, gris, negro y azul) para proyectar claridad y profesionalismo. </p>
 <p align="center">Capturas generales del portafolio</p>
-<p align="center"> <img src="ruta/a/la/captura1.png" alt="Vista general 1" /> </p> <p align="center"> <img src="ruta/a/la/captura2.png" alt="Vista general 2" /> </p> <p align="center"> <img src="ruta/a/la/captura3.png" alt="Vista general 3" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/d6b29b80-d152-4df1-84d0-f06652435d31" alt="Vista general 1" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/1dec2db4-f5ec-4eae-9b8f-e436df9f3eef" alt="Vista general 2" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/58380da5-eb24-463c-ae44-fab11acd50fc" alt="Vista general 3" /> </p> 
+
 <p align="center">Detalle de componentes</p>
 🔹 Componente 1 – Selector simple
 <p>Se muestra un selector de tipo “Assignee” con estilo de tarjeta.</p>
