@@ -1,3 +1,8 @@
+## <p align="center">Portada</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/499b1ad0-82ca-4214-b1e5-1164915646a1" alt="Portada" />
+</p>
+
 <p align="center">Portafolio Angular</p>
 <p align="center">Descripción general</p>
 <p align="justify"> Este portafolio digital desarrollado en Angular contiene una colección de 15 componentes que ejemplifican distintas funcionalidades y elementos de interfaz de usuario. Su objetivo es presentar mis habilidades técnicas mediante componentes funcionales, modernos y visualmente sobrios. Se utilizan colores neutros (blanco, gris, negro y azul) para proyectar claridad y profesionalismo. </p>
