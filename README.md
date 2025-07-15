@@ -40,10 +40,10 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Útil para formularios asignables o perfiles.
 
 📷  
-<img src="RUTA/COMPONENTE1.png" width="300"/>
+<img src="https://github.com/user-attachments/assets/77faa3f2-2f5a-4ee6-adf9-645e3b29ed21" width="300"/>
 
 💻  
-<img src="RUTA/COMPONENTE1-CODIGO.png" width="600"/>
+<img src="https://github.com/user-attachments/assets/3189a53d-f7e6-4ab5-a3f3-6297b32b5e78" width="600"/> 
 
 ---
 
@@ -53,10 +53,10 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Excelente para notificaciones o indicadores visuales.
 
 📷  
-<img src="RUTA/COMPONENTE2.png" width="300"/>
+<img src="https://github.com/user-attachments/assets/3bfa2455-ffad-4026-b0c0-459884619774" width="300"/> 
 
 💻  
-<img src="RUTA/COMPONENTE2-CODIGO.png" width="600"/>
+<img src="https://github.com/user-attachments/assets/09b5c1ca-d866-469e-beca-fa5772a376d4" width="600"/> 
 
 ---
 
@@ -186,7 +186,7 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Ícono de casa como símbolo dentro de tarjeta.
 
 📷  
-<img src="RUTA/COMPONENTE13.png" width="300"/>
+<img src="https://github.com/user-attachments/assets/c000160b-a57e-47cd-a836-56bcf7a955af" width="300"/> 
 
 💻  
 <img src="RUTA/COMPONENTE13-CODIGO.png" width="600"/>
@@ -198,7 +198,7 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Lista minimalista de ítems tipo menú.
 
 📷  
-<img src="RUTA/COMPONENTE14.png" width="300"/>
+<img src="https://github.com/user-attachments/assets/1a58e342-3659-4f2d-9a05-ee25730c6604" width="300"/> <img width="527" height="367" alt="image" src="https://github.com/user-attachments/assets/c3b333ff-8a6b-41de-982c-9cbcd170382a" />
 
 💻  
 <img src="RUTA/COMPONENTE14-CODIGO.png" width="600"/>
@@ -210,7 +210,7 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Menú emergente al dar clic sobre "Menu".
 
 📷  
-<img src="RUTA/COMPONENTE15.png" width="300"/>
+<img src="https://github.com/user-attachments/assets/2d370204-a334-4986-8b73-dccbef0cccea" width="300"/> 
 
 💻  
 <img src="RUTA/COMPONENTE15-CODIGO.png" width="600"/>
