@@ -40,6 +40,7 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Útil para formularios asignables o perfiles.
 
 📷  Captura
+
 <img src="https://github.com/user-attachments/assets/77faa3f2-2f5a-4ee6-adf9-645e3b29ed21" width="300"/>
 
 💻  Codigo
