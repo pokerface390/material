@@ -39,10 +39,10 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Selector tipo "Assignee" con estilo de tarjeta moderno.
 - Útil para formularios asignables o perfiles.
 
-📷  
+📷  Captura
 <img src="https://github.com/user-attachments/assets/77faa3f2-2f5a-4ee6-adf9-645e3b29ed21" width="300"/>
 
-💻  
+💻  Codigo
 <img src="https://github.com/user-attachments/assets/3189a53d-f7e6-4ab5-a3f3-6297b32b5e78" width="600"/> 
 
 ---
@@ -52,10 +52,10 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 - Texto, botones e íconos con badges numéricos.
 - Excelente para notificaciones o indicadores visuales.
 
-📷  
+📷  Captura
 <img src="https://github.com/user-attachments/assets/3bfa2455-ffad-4026-b0c0-459884619774" width="300"/> 
 
-💻  
+💻  Codigo
 <img src="https://github.com/user-attachments/assets/09b5c1ca-d866-469e-beca-fa5772a376d4" width="600"/> 
 
 ---
@@ -64,10 +64,10 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 
 - Botones con estado inactivo claramente diferenciado.
 
-📷  
+📷 Captura
 <img src="RUTA/COMPONENTE3.png" width="300"/>
 
-💻  
+💻  Codigo
 <img src="RUTA/COMPONENTE3-CODIGO.png" width="600"/>
 
 ---
@@ -76,10 +76,10 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 
 - Radios y checkboxes con opción de ocultar indicadores.
 
-📷  
+📷  Captura
 <img src="RUTA/COMPONENTE4.png" width="300"/>
 
-💻  
+💻  Codigo
 <img src="RUTA/COMPONENTE4-CODIGO.png" width="600"/>
 
 ---
@@ -88,10 +88,10 @@ Este portafolio digital desarrollado en Angular contiene una colección de 15 co
 
 - Tarjeta con imagen, descripción y botones (ej. Like, Share).
 
-📷  
+📷  Captura
 <img src="RUTA/COMPONENTE5.png" width="300"/>
 
-💻  
+💻  Codigo
 <img src="RUTA/COMPONENTE5-CODIGO.png" width="600"/>
 
 ---
